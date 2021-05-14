@@ -20,9 +20,9 @@ export class FilmesPage {
       lancamento: '21 de junho de 2013'
     },
     {
-      ]
-      nome: '',
-      nome: '',
+   
+     
+      nome: 'sem remorso',
       cartaz:
         'https://www.themoviedb.org/t/p/w94_and_h141_bestv2/5cF5v8N0wMALMcgEHpBZHyYQZDl.jpg',
       lancamento: '21 de junho de 2013'
